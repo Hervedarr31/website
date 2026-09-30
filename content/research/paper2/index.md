@@ -1,7 +1,6 @@
 ---
 title: "Incidence of In-Work Benefits: Evidence from France"
 date: 2026-02-01
-url: /papers/incidence-in-work-benefits/
 # tags: ["in-work benefits", "tax incidence", "wage subsidies", "prime d'activité", "difference-in-differences", "administrative data", "pass-through", "France"]
 author: ["Antoine Bozio", "Hervé Darricau", "Claire Leroy", "Clément Malgouyres", "Maxime Tô"]
 # description: "Do employers capture in-work transfers by cutting wages? Evidence from the 2019 French prime d'activité reform, using linked worker-firm administrative data."
