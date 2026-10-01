@@ -52,7 +52,8 @@ params:
     profileMode:
           enabled: true
           title: Hervé Darricau
-          subtitle: "Hi, welcome to my personal website! I am a PhD candidate in **economics** at [**CREST**](https://crest.science/), **ENSAE Paris**, **Institut Polytechnique de Paris**. Supervised by [**Pierre Boyer**](https://pierrecboyer.com/) (CREST, Ecole Polytechnique, IP Paris) and [**Marion Leroutier**](https://marionleroutier.github.io/) (CREST, ENSAE Paris, IP Paris). \\
+          subtitle: "Hi, welcome to my personal website! \\
+          I am a PhD candidate in **economics** at [**CREST**](https://crest.science/), **ENSAE Paris**, **Institut Polytechnique de Paris**. Supervised by [**Pierre Boyer**](https://pierrecboyer.com/) (CREST, Ecole Polytechnique, IP Paris) and [**Marion Leroutier**](https://marionleroutier.github.io/) (CREST, ENSAE Paris, IP Paris). \\
           I am interested in **public** and **environmental economics**."
           imageUrl: Photo PSE zoom.jpg
           imageWidth: 188
