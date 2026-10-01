@@ -26,7 +26,7 @@ menu:
           weight: 4
 
 params:
-    description: "This website hosts Hervé Darricau's (PhD Candidate in economics) research papers, policy work, course materials, data, curriculum vitae, and contact information."
+    description: "This website hosts Hervé Darricau's (PhD Candidate in economics) research papers, policy work, resume and contact information."
     author: Hervé Darricau
     # googleAnalyticsID: G-XXXXX
     DateFormat: January 2006
